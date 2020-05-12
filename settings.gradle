@@ -1,0 +1,2 @@
+rootProject.name='WeikeDemo'
+include ':app'
